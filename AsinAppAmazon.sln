@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsinAppAmazon", "AsinAppAmazon\AsinAppAmazon.csproj", "{9A455338-FAB9-4C87-B053-609CAAA4B082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A455338-FAB9-4C87-B053-609CAAA4B082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A455338-FAB9-4C87-B053-609CAAA4B082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A455338-FAB9-4C87-B053-609CAAA4B082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A455338-FAB9-4C87-B053-609CAAA4B082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C856DB30-F9E8-4A20-B3C4-040C99506C05}
+	EndGlobalSection
+EndGlobal
